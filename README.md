@@ -1,13 +1,13 @@
 <div align="center">
 
-# W4T4r
+# hi, I'm Wataru
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3200&pause=800&color=F5F5F5&center=true&vCenter=true&width=900&lines=Software+Engineer+in+Progress;Building+clean+products+with+sharp+execution;Focused+on+shipping%2C+usability%2C+and+real+impact" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3200&pause=800&color=F5F5F5&center=true&vCenter=true&width=900&lines=Building+practical+software;Interested+in+systems%2C+tooling%2C+and+interfaces;Currently+focused+on+NixOS+and+developer+tooling" alt="Typing intro" />
 
 <p>
-  <img src="https://img.shields.io/badge/Product--Minded-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Product Minded" />
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-1F6FEB?style=for-the-badge" alt="Open to Opportunities" />
   <img src="https://img.shields.io/badge/Based%20in-Japan-EA4C89?style=for-the-badge" alt="Based in Japan" />
+  <img src="https://img.shields.io/badge/Student-Shibaura%20Institute%20of%20Technology%20(SIT)-111111?style=for-the-badge" alt="Student at Shibaura Institute of Technology" />
+  <img src="https://img.shields.io/badge/Current%20Focus-NixOS-1F6FEB?style=for-the-badge" alt="Current Focus NixOS" />
 </p>
 
 <p>
@@ -19,102 +19,70 @@
 
 ---
 
-## The Short Version
+## About Me
 
-I build software with a strong bias toward clarity, speed, and usefulness.
+I am a software engineer in progress who likes building things that feel useful, calm, and well put together.
 
-I am especially interested in systems and products built with Rust, Nix, and TypeScript, where engineering quality and developer experience both matter.
+I am currently studying at Shibaura Institute of Technology (SIT) in Japan.
 
-I am interested in teams that care about product quality, thoughtful engineering, and shipping work that actually matters to users.
+I can communicate in Chinese, Japanese, and English.
 
-## What You Can Expect From Me
+I am especially drawn to systems, tooling, and product work where engineering quality and developer experience both matter.
 
-```txt
-I like clean interfaces.
-I like practical systems.
-I like reproducible environments.
-I like shipping over endless polishing.
-I care about details that users notice.
-```
+Right now, most of my attention is on NixOS and the surrounding ecosystem, alongside Rust, Nix, and TypeScript.
 
-## Focus
+What I like most about NixOS is its manageability: it makes systems feel clearer, more reproducible, and easier to reason about.
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Build</h3>
-      <p>Tools, web apps, and developer workflows with a practical product mindset.</p>
-    </td>
-    <td width="50%">
-      <h3>Improve</h3>
-      <p>Usability, structure, performance, and environments that make software feel sharper.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Learn</h3>
-      <p>Fast iteration, fast feedback, and deep technical understanding when the problem deserves it.</p>
-    </td>
-    <td width="50%">
-      <h3>Ship</h3>
-      <p>Real output over vague potential. I want my work to be useful, reproducible, and deployed.</p>
-    </td>
-  </tr>
-</table>
+## What I'm Doing
 
-## Tech Stack
+- Spending most of my time on NixOS, configuration, and the tooling around it
+- Building projects that reflect how I like software to feel: practical, intentional, and easy to understand
+- Studying and experimenting through dotfiles, workflows, and small systems projects
+- Learning by shipping instead of waiting for everything to feel perfect
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,nix,ts,js,react,nextjs,nodejs,git,github,vscode&theme=dark" alt="Tech stack icons" />
-</p>
+## What I Like
 
-<p align="center">
-  <code>Rust</code> • <code>Nix</code> • <code>TypeScript</code> • <code>Developer Tooling</code> • <code>Product Engineering</code>
-</p>
-
-## Hiring Snapshot
-
-<div align="center">
-  <table>
-    <tr>
-      <td><strong>Role</strong></td>
-      <td>Software Engineer</td>
-    </tr>
-    <tr>
-      <td><strong>Strength</strong></td>
-      <td>Product sense + implementation discipline + tooling mindset</td>
-    </tr>
-    <tr>
-      <td><strong>Looking For</strong></td>
-      <td>Teams that value ownership, speed, and quality</td>
-    </tr>
-    <tr>
-      <td><strong>Status</strong></td>
-      <td>Open to opportunities</td>
-    </tr>
-  </table>
-</div>
-
-## Current Build Direction
-
-- Creating projects around Rust, Nix, and TypeScript that show taste, execution, and technical judgment
-- Growing a profile that is small now, but intentionally built
-- Focusing on work that is easy to understand, hard to ignore, and pleasant to maintain
+- Clean interfaces
+- Practical systems
+- Reproducible environments
+- Small details that improve the everyday experience
+- Niri and minimal desktop environments that stay out of the way
+- HHKB and thoughtful tools with a strong point of view
+- Software with a clear point of view
+- Shipping real work instead of collecting vague ideas
 
 ## Selected Work
 
 <table>
   <tr>
     <td width="50%">
-      <h3>MD4N</h3>
+      <h3><a href="https://github.com/W4T4r/MD4N">MD4N</a></h3>
       <p>A modular NixOS and Home Manager setup built around Niri, with an opinionated workflow for installation, rebuilds, rollback, and machine-specific configuration.</p>
     </td>
     <td width="50%">
-      <h3>bcompare5 flake</h3>
-      <p>A Nix flake that packages Beyond Compare 5 for reproducible use in Nix-based environments, with Home Manager integration for practical desktop workflows.</p>
+      <h3><a href="https://github.com/W4T4r/bcompare5">bcompare5</a></h3>
+      <p>A Nix flake for packaging Beyond Compare 5 in reproducible environments, plus Home Manager integration for practical desktop use.</p>
     </td>
   </tr>
 </table>
+
+## Tools I Reach For
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,nix,ts,js,react,nextjs,nodejs,git,github,vscode&theme=dark" alt="Tech stack icons" />
+</p>
+
+<p align="center">
+  <code>NixOS</code> • <code>Rust</code> • <code>Nix</code> • <code>TypeScript</code> • <code>Developer Tooling</code>
+</p>
+
+## A Few Notes
+
+- I care about clarity more than noise
+- I like software that feels intentional
+- I enjoy improving both the product and the workflow behind it
+- Still waiting for the day the MacBook Air gets a 120Hz display
+- I am still early, but I want the work here to reflect real taste and steady progress
 
 ## Connect
 
@@ -126,5 +94,5 @@ I care about details that users notice.
 ---
 
 <div align="center">
-  <sub>Early profile. Serious intent.</sub>
+  <sub>Still growing, still building.</sub>
 </div>
