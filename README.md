@@ -10,7 +10,7 @@
 
 <p>
   <a href="https://github.com/W4T4r"><img src="https://img.shields.io/badge/GitHub-W4T4r-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" /></a>
-  <a href="mailto:wataru2005@outlook.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" /></a>
+  <a href="mailto:wataru2005@outlook.com"><img src="https://img.shields.io/badge/Email-wataru2005%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" /></a>
 </p>
 
 </div>
