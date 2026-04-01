@@ -19,7 +19,9 @@
 
 ## About Me
 
-I am a student at Shibaura Institute of Technology (SIT) in Japan, working mainly on NixOS configuration, dotfiles, and small personal projects.
+I am a student at Shibaura Institute of Technology (SIT) in Japan.
+
+I work mainly on NixOS configuration, dotfiles, and small personal projects.
 
 I use Chinese, Japanese, and English.
 
@@ -44,16 +46,6 @@ I use Chinese, Japanese, and English.
   </tr>
 </table>
 
-## Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nix,linux,git,github,neovim,vscode&theme=dark" alt="Tools I use often" />
-</p>
-
-<p align="center">
-  <code>NixOS</code> • <code>Nix</code> • <code>Linux</code> • <code>Git</code>
-</p>
-
 ## Notes
 
 - I use AMD because I like Linux.
@@ -64,6 +56,16 @@ I use Chinese, Japanese, and English.
 - Still waiting for the MacBook Air to get a 120Hz display.
 - My eyesight is probably what happens when you play too many games.
 - I tend to stay up late and wake up late.
+
+## Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nix,linux,git,github,neovim,vscode&theme=dark" alt="Tools I use often" />
+</p>
+
+<p align="center">
+  <code>NixOS</code> • <code>Nix</code> • <code>Linux</code> • <code>Git</code>
+</p>
 
 ## Connect
 
