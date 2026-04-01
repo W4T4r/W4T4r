@@ -37,7 +37,7 @@ I use Chinese, Japanese, and English.
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/W4T4r/nixos-config">nixos-config</a></h3>
-      <p>My current NixOS and Home Manager configuration for the xingyao machine.</p>
+      <p>My current NixOS and Home Manager configuration.</p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/W4T4r/mydotfiles">mydotfiles</a></h3>
