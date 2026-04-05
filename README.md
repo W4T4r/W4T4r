@@ -28,23 +28,18 @@ I use Chinese, Japanese, and English.
 ## What I'm Doing
 
 - Maintaining my NixOS and Home Manager setup
-- Working on dotfiles and desktop configuration
+- Working on [mydotfiles](https://github.com/W4T4r/mydotfiles) and desktop configuration
+- Publishing small Nix flakes and collecting them in [cornflake](https://github.com/W4T4r/cornflake)
 - Building small personal projects
 
-## Selected Work
+## Featured Repositories
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/W4T4r/nixos-config">nixos-config</a></h3>
-      <p>My current NixOS and Home Manager configuration.</p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/W4T4r/mydotfiles">mydotfiles</a></h3>
-      <p>Shared dotfiles and app configuration used by my Home Manager setup.</p>
-    </td>
-  </tr>
-</table>
+- [cornflake](https://github.com/W4T4r/cornflake): aggregate flake for my public Nix flakes
+- [bcompare5-flake](https://github.com/W4T4r/bcompare5-flake): Beyond Compare 5 as a standalone flake with a Home Manager module
+- [catppuccin-fcitx5-flake](https://github.com/W4T4r/catppuccin-fcitx5-flake): Catppuccin `fcitx5` themes, including a rounded variant
+- [catppuccin-gtk-flake](https://github.com/W4T4r/catppuccin-gtk-flake): Catppuccin GTK themes as a standalone flake
+- [catppuccin-kvantum-flake](https://github.com/W4T4r/catppuccin-kvantum-flake): Catppuccin Kvantum themes as a standalone flake
+- [nixos-config](https://github.com/W4T4r/nixos-config): my NixOS and Home Manager system configuration
 
 ## Notes
 
