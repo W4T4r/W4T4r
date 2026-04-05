@@ -28,7 +28,6 @@ I use Chinese, Japanese, and English.
 ## What I'm Doing
 
 - Maintaining my NixOS and Home Manager setup
-- Working on [mydotfiles](https://github.com/W4T4r/mydotfiles) and desktop configuration
 - Publishing small Nix flakes and collecting them in [cornflake](https://github.com/W4T4r/cornflake)
 - Building small personal projects
 
@@ -39,7 +38,6 @@ I use Chinese, Japanese, and English.
 - [catppuccin-fcitx5-flake](https://github.com/W4T4r/catppuccin-fcitx5-flake): Catppuccin `fcitx5` themes, including a rounded variant
 - [catppuccin-gtk-flake](https://github.com/W4T4r/catppuccin-gtk-flake): Catppuccin GTK themes as a standalone flake
 - [catppuccin-kvantum-flake](https://github.com/W4T4r/catppuccin-kvantum-flake): Catppuccin Kvantum themes as a standalone flake
-- [nixos-config](https://github.com/W4T4r/nixos-config): my NixOS and Home Manager system configuration
 
 ## Notes
 
